@@ -105,7 +105,7 @@
     "convex": "^1.32.0",
     "d3": "^7.9.0",
     "deck.gl": "^9.2.6",
-    "dompurify": "^3.1.7",
+    "dompurify": "^3.4.0",
     "fast-xml-parser": "^5.3.7",
     "globe.gl": "^2.45.0",
     "hls.js": "^1.6.15",
